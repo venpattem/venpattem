@@ -3,6 +3,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vpattem](https://github.com/venpattem)
 
+- 🌐 Website
+
+- 🔗 [Visit my website on Linktree!](https://linktr.ee/venkateshpattem)
+
+- 📝 Blogs
+
+- 🌐 [Check out my blogs on Medium!] (https://medium.com/@venpattem)
+
 - 📫 How to reach me **venpattem@gmail.com**
 
 - 📄 Know about my experiences - 
