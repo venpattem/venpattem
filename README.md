@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh Pattem</h1>
 <h3 align="center">A passionate DevOps Engineer from Florida</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vpattem](https://github.com/venpattem)
+- 👨‍💻 All of my projects are available at [https://github.com/venpattem](https://github.com/venpattem)
 
 - 🌐 Website
 
