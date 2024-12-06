@@ -3,11 +3,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/venpattem](https://github.com/venpattem)
 
-- 🌐 Website
+- ## 🌐 Website
 
 - 🔗 [Visit my website on Linktree!](https://linktr.ee/venkateshpattem)
 
-- 📝 Blogs
+- ## 📝 Blogs
 
 - 🌐 [Check out my blogs on Medium!] (https://medium.com/@venpattem)
 
@@ -15,6 +15,8 @@
 - 🚀 [Check out my portfolio!] (https://venpattem.github.io/)
 
 - 📫 How to reach me **venpattem@gmail.com**
+
+- ## 📄 Resume
 
 - 📄 Know about my experiences - 
  (https://github.com/venpattem/venpattem/raw/main/Venkatesh%20Pattem%20-%20DevOps.docx)
