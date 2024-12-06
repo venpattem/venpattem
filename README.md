@@ -5,7 +5,7 @@
 
 - ## 🌐 Website
 
-- 🔗 [Visit my website on Linktree!](https://linktr.ee/venkateshpattem)
+- 🔗 [Visit my website on Linktree!] (https://linktr.ee/venkateshpattem)
 
 - ## 📝 Blogs
 
@@ -13,6 +13,8 @@
 
 - ## 🌐 Portfolio Website
 - 🚀 [Check out my portfolio!] (https://venpattem.github.io/)
+
+- ## 📫 Gmail
 
 - 📫 How to reach me **venpattem@gmail.com**
 
